@@ -1,0 +1,303 @@
+body {
+    color: #eee;
+    background-color: #151515;
+}
+.container-wrapper {
+    background-color: #151515 !important;
+}
+.about-author .name a,
+.next-n-prev .btns:hover a,
+ul.tabs-posts li a:hover {
+    color: #fff !important;
+}
+.widget select,
+.widget_search input.search-field {
+    background-color: #444;
+}
+.widget_search input.search-field {
+    border-color: #444;
+}
+.widget_search input.search-field:focus {
+    background-color: #666;
+}
+ #main-nav-wrap {
+     border-top: 1px solid #353535;
+     border-bottom: 1px solid #353535;
+     background-color: #222;
+ }
+#main-menu li {
+    border: none;
+}
+#main-menu ul li {
+    border-color: #353535;
+}
+#main-menu ul,
+.sharepost ul li:hover,
+ul.s-author li:hover,
+section.editor-picks article .picture .overlay-category,
+.picture .overlay-category,
+section.footer .row1,
+section.footer .row3 {
+    background-color: #222;
+}
+.header-search input[type="search"],
+.caption, article .caption a, article .small-caption a,
+.small-caption,
+.widget_archive a, .widget_categories a,
+.widget_links a, .widget_meta a,
+.widget_nav_menu a, .widget_pages a,
+.widget_recent_comments a, .widget_recent_entries a {
+    color: #f5f5f5;
+}
+.pic-with-overlay .category,
+.pic-with-overlay-2 .category {
+    background-color: #151515;
+}
+.breaking-news .newsticker a,
+ul.cats li a,
+ul.tabs-posts li .caption a,
+ul.contactus li a,
+.copyright,
+.tweets,
+ul.footer-posts li a,
+ul.footer-posts li .caption {
+    color: #ccc;
+}
+.breaking-news .newsticker a:hover,
+.owl-theme .owl-controls.clickable .owl-buttons div:hover,
+ul.tabs-posts li a,
+.nav-tabs > li > a,
+.category-caption h2.main-caption a,
+.category-caption h2.main-caption a:hover,
+article .caption a:hover, article .small-caption a:hover,
+ul.via li a,
+ul.via li a:hover,
+.sharepost,
+.sharepost ul li a,
+ul.s-author,
+ul.s-author li a,
+section.editor-picks .category-caption span:hover a,
+section.editor-picks article a:hover,
+section.editor-picks article .caption,
+ul.footer-posts li a:hover,
+.social-icons .icon,
+.tweets ul li a,
+.tweets ul li a:hover,
+ul.contactus li a:hover,
+article a:hover,
+article a:focus,
+#main-menu a,
+#main-menu .cat-mega a {
+    color: #fff;
+}
+.newsticker.owl-theme .owl-controls .owl-buttons div {
+    color: #aaa;
+    border: 1px solid #353535;
+    background-color: #151515;
+}
+ul.cats li,
+ul.tabs-posts li {
+    border-bottom-color: #353535;
+}
+ul.cats li:hover a {
+    color: #aaa !important;
+}
+ul.tabs-posts li .info,
+.detail .info,
+.author .pic .name,
+.media-body .date,
+article a,
+article a:visited,
+section.editor-picks article a,
+section.footer .introduction,
+ul.footer-posts li .info {
+    color: #aaa;
+}
+.tag-list a {
+    border: 1px solid #353535;
+    color: #ccc;
+}
+.tag-list a:hover {
+    color: #fff;
+    background-color: #e4545b;
+}
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+    background-color: #353535;
+    border-top: 1px solid #353535;
+    border-left: 1px solid #353535;
+    border-right: 1px solid #353535;
+}
+.ad-300x250,
+.ad-125x125 {
+    background-color: #333;
+}
+.newsletter-block input {
+    background-color: #151515;
+    border: 1px solid #555555;
+    width: 100%;
+}
+.featured-video .picture .overlay-category,
+#main-menu .picture .overlay-category {
+    background-color: #151515;
+}
+.category-caption h2.main-caption {
+    background-color: #353535;
+}
+.category-caption h2.main-caption:hover {
+    background-color: #e4545b;
+    color: #fff;
+}
+.category-caption h2.sub-caption {
+    background-color: #e4545b;
+}
+.picture .category-image {
+    background-color: #000;
+}
+ul.via li:first-child {
+    color: #fff;
+    background-color: #e4545b;
+}
+ul.via li {
+    color: #fff;
+    background-color: #333;
+}
+ul.via li:hover,
+.sharepost ul li:first-child {
+    color: #fff;
+    background-color: #e4545b;
+}
+.next-n-prev .btns {
+    background-color: #151515;
+    color: #e4545b;
+    border: 2px solid #e4545b;
+}
+.next-n-prev .btns:hover {
+    background-color: #e4545b;
+    color: #fff !important;
+    border: 2px solid #e4545b;
+}
+.next-n-prev .btns a {
+    color: #e4545b !important;
+}
+ul.media-list .media {
+    border-top-color: #353535;
+}
+
+ul.media-list .media .reply a {
+
+    background-color: #151515;
+    color: #e4545b;
+    border: 1px solid #e4545b;
+}
+ul.media-list .media .reply a:hover {
+    background-color: #e4545b;
+    color: #fff;
+    border: 1px solid #e4545b;
+}
+.leave-comment input, .leave-comment textarea {
+    background-color: #151515;
+    border: 1px solid #555;
+}
+.left-right-border {
+    border-right-color: #ddd;
+    border-left-color: #ddd;
+}
+section.editor-picks {
+    background-color: #222;
+    color: #aaa;
+}
+section.editor-picks .category-caption h2 {
+    color: #000;
+    background-color: #fff;
+}
+section.editor-picks .category-caption span {
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+section.editor-picks .category-caption span:hover {
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+section.editor-picks .category-caption span a,
+ul.sitemap li a:hover,
+.social-icons h2 a {
+    color: #000;
+}
+ul.sitemap li a {
+    color: #666;
+}
+section.footer .row2 {
+    background-color: #151515;
+}
+ul.footer-posts li {
+    border-bottom-color: #333;
+}
+.social-icons .icon:hover {
+    background-color: #e75640;
+}
+.facebook {
+    background-color: #3c599f;
+}
+.twitter {
+    background-color: #e75640;
+}
+.linkedin {
+    background-color: #017eb4;
+}
+.dribbble {
+    background-color: #e04c86;
+}
+.youtube {
+    background-color: #c00000;
+}
+.behance {
+    background-color: #1478ff;
+}
+.tweets ul li {
+    border-bottom-color: #333;
+    color: #aaa;
+}
+ul.contactus {
+    color: #ccc;
+    border-bottom-color: #333;
+}
+
+@media (max-width: 992px) {
+
+    .newsticker.owl-theme .owl-controls .owl-buttons div {
+        color: #fff;
+        background-color: transparent;
+        border: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .pic-with-overlay .category {
+        background-color: #151515;
+    }
+    .pic-with-overlay .author,
+    .pic-with-overlay h1,
+    .pic-with-overlay-2 .author,
+    .pic-with-overlay-2 h1{
+        color: #fff;
+    }
+    .ad-125x125,
+    .inner-page-contents{
+        background-color: #f5f5f5;
+    }
+}
+
+@media (max-width: 480px) {
+    .pic-with-overlay .category {
+        background-color: #151515;
+    }
+    .pic-with-overlay .author,
+    .pic-with-overlay h1,
+    .pic-with-overlay-2 .author,
+    .pic-with-overlay-2 h1{
+        color: #fff;
+
+    }
+}

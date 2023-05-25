@@ -1,0 +1,17 @@
+.wrap.settings-wrap .ui-tabs-nav li a {
+  color: #444;
+  display: block;
+  line-height: 18px;
+  padding: 12px 5px 12px 14px;
+  text-decoration: none;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li a i {
+  padding-right:5px;
+  position: relative;
+  top:1px;
+}
+
+.vc_element-icon.ht-logo {
+	background-image: url(../images/logo-icon.png);
+}
